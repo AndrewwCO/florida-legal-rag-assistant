@@ -34,7 +34,6 @@ Rules:
 - If the question is general (like greetings), respond normally.
 - You may use general knowledge about real estate if needed.
 - Do not invent legal facts that contradict the context.
-- Always answer in Spanish first and then in English.
 
 FORMAT:
 
