@@ -1,0 +1,19 @@
+# Source:
+# https://www.rocketmortgage.com/learn/financing-contingency
+
+Financing Contingency in Real Estate Contracts
+
+A financing contingency is a clause in a real estate purchase agreement that
+protects the buyer if they cannot obtain a mortgage loan.
+
+This contingency allows the buyer to cancel the contract without penalty
+if the loan application is denied by the lender.
+
+Key aspects of financing contingency:
+
+- The buyer must apply for a mortgage within a specified period
+- The lender evaluates the buyer's financial situation
+- If financing is not approved, the buyer may terminate the contract
+
+Without this contingency, a buyer who fails to secure financing may lose
+their earnest money deposit.
